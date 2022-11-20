@@ -1,2 +1,2 @@
-# medical-EMS
-Medical Employee Management System
+# harryMedEMS
+Angular as the frontend and spring boot as the backend. Completely for academic purposes
